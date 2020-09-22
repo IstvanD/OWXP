@@ -1,0 +1,6 @@
+Bundle-Name: Liferay Grow Scheduled Badge Import
+Bundle-SymbolicName: com.liferay.grow.gamification.badges.scheduledbadgeimport
+Bundle-Version: 1.0.0
+Import-Package: !org.apache.avalon.framework.*,\
+!org.apache.log.*,\
+*
