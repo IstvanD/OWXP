@@ -1,0 +1,8 @@
+<tsRequest>
+	<credentials
+		personalAccessTokenName="report_token"
+		personalAccessTokenSecret="gB23eqKdQtemUx4Khm3xnQ==:BT6ABcn26iIuWTBLeaiO1yANQGPgSHOr"
+	>
+		<site contentUrl="support" />
+	</credentials>
+</tsRequest>
