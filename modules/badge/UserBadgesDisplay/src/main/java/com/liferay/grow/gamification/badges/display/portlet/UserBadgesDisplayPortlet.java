@@ -27,7 +27,7 @@ import com.liferay.grow.gamification.service.BadgeTypeLocalService;
 import com.liferay.grow.gamification.service.LDateLocalService;
 import com.liferay.portal.kernel.exception.PortalException;
 import com.liferay.portal.kernel.model.Group;
-import com.liferay.portal.kernel.model.Portlet;
+import javax.portlet.Portlet;
 import com.liferay.portal.kernel.model.User;
 import com.liferay.portal.kernel.portlet.bridges.mvc.MVCPortlet;
 import com.liferay.portal.kernel.repository.model.FileEntry;
